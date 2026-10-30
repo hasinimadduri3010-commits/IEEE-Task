@@ -1,0 +1,102 @@
+2026-10-30 18:04:40 | INFO | Database integrity verification successful.
+2026-10-30 18:04:46 | INFO | CONTINUOUS MONITORING STARTED
+2026-10-30 18:04:54 | WARNING | FILE MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt | HASH MISMATCH
+2026-10-30 18:04:54 | WARNING | FILE MODIFIED | c:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt | HASH MISMATCH
+2026-10-30 18:04:54 | WARNING | FILE MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt | HASH MISMATCH
+2026-10-30 18:04:54 | WARNING | FILE MODIFIED | c:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt | HASH MISMATCH
+2026-10-30 18:04:54 | WARNING | FILE MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt | HASH MISMATCH
+2026-10-30 18:04:54 | WARNING | FILE MODIFIED | c:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt | HASH MISMATCH
+2026-10-30 18:06:46 | INFO | CONTINUOUS MONITORING STOPPED
+2026-10-30 18:06:49 | INFO | PROGRAM EXITED
+2026-10-30 18:07:17 | INFO | Database integrity verification successful.
+2026-10-30 18:07:40 | INFO | PROGRAM EXITED
+2026-10-30 18:11:28 | INFO | Database signature verification successful.
+2026-10-30 18:11:40 | INFO | Continuous monitoring started.
+2026-10-30 18:12:16 | INFO | Continuous monitoring stopped.
+2026-10-30 18:14:01 | INFO | Application exited.
+2026-10-30 18:14:37 | INFO | Database signature verification successful.
+2026-10-30 18:14:42 | INFO | Continuous monitoring started.
+2026-10-30 18:15:07 | INFO | Continuous monitoring stopped.
+2026-10-30 18:15:25 | INFO | Application exited.
+2026-10-30 18:18:28 | INFO | Independent continuous monitoring started.
+2026-10-30 18:18:28 | WARNING | MODIFICATION DETECTED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 18:18:28 | WARNING | MODIFICATION DETECTED | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:18:28 | WARNING | MODIFICATION DETECTED | c:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:18:28 | WARNING | REGISTERED FILE MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 18:18:57 | INFO | Independent continuous monitoring started.
+2026-10-30 18:18:57 | WARNING | MODIFICATION DETECTED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 18:18:57 | WARNING | MODIFICATION DETECTED | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:18:57 | WARNING | MODIFICATION DETECTED | c:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:18:57 | WARNING | REGISTERED FILE MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 18:20:03 | INFO | Independent monitoring stopped.
+2026-10-30 18:34:23 | INFO | LIVE MONITOR STARTED
+2026-10-30 18:34:23 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 18:34:23 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:34:23 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 18:34:31 | INFO | Independent monitoring stopped.
+2026-10-30 18:34:51 | INFO | Database signature verification successful.
+2026-10-30 18:34:54 | INFO | Continuous monitoring started.
+2026-10-30 18:35:57 | INFO | Continuous monitoring stopped.
+2026-10-30 18:36:54 | INFO | Application exited.
+2026-10-30 18:43:59 | INFO | Database signature verification successful.
+2026-10-30 18:44:02 | INFO | Continuous monitoring started.
+2026-10-30 18:44:44 | INFO | Continuous monitoring stopped.
+2026-10-30 18:45:02 | WARNING | Unregistered file check | c:\users\hasin\downloads\new folder\ieee task\sample.txt
+2026-10-30 18:46:10 | INFO | Application exited.
+2026-10-30 18:52:11 | INFO | LIVE MONITOR STARTED
+2026-10-30 18:52:11 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 18:52:11 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:52:11 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 18:52:45 | INFO | Database signature verification successful.
+2026-10-30 18:52:47 | INFO | Continuous monitoring started.
+2026-10-30 18:55:39 | INFO | LIVE MONITOR STARTED
+2026-10-30 18:55:39 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 18:55:39 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:55:39 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 18:56:47 | INFO | LIVE MONITOR STOPPED
+2026-10-30 18:59:02 | INFO | LIVE MONITOR STARTED
+2026-10-30 18:59:02 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 18:59:02 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 18:59:02 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:00:10 | INFO | LIVE MONITOR STARTED
+2026-10-30 19:00:10 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:00:10 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 19:00:10 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:03:24 | INFO | LIVE MONITOR STOPPED
+2026-10-30 19:03:40 | INFO | LIVE MONITOR STARTED
+2026-10-30 19:03:40 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:03:40 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 19:03:40 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:07:30 | INFO | LIVE MONITOR STARTED
+2026-10-30 19:07:30 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:07:30 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 19:07:30 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:08:12 | INFO | Database signature verification successful.
+2026-10-30 19:08:14 | INFO | Continuous monitoring started.
+2026-10-30 19:22:23 | INFO | Continuous monitoring stopped.
+2026-10-30 19:28:02 | INFO | Database signature verification successful.
+2026-10-30 19:28:41 | INFO | LIVE MONITOR STARTED
+2026-10-30 19:28:41 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:28:41 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 19:28:41 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:29:27 | INFO | LIVE MONITOR STARTED
+2026-10-30 19:29:27 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:29:27 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 19:29:27 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:39:37 | INFO | Database signature verification successful.
+2026-10-30 19:39:42 | INFO | LIVE MONITOR STARTED
+2026-10-30 19:39:42 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:39:42 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 19:39:42 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:42:20 | INFO | Database signature verification successful.
+2026-10-30 19:42:23 | INFO | LIVE MONITOR STARTED
+2026-10-30 19:42:23 | CRITICAL | MODIFIED | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:42:23 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\hash.py
+2026-10-30 19:42:23 | CRITICAL | MISSING | C:\Users\hasin\Downloads\New Folder\IEEE task\testfile.txt
+2026-10-30 19:42:52 | INFO | Database signature verification successful.
+2026-10-30 19:43:05 | WARNING | Unregistered file check | c:\users\hasin\downloads\new folder\ieee task\sample.txt
+2026-10-30 19:43:20 | INFO | Database updated and signed.
+2026-10-30 19:43:20 | INFO | FILE REGISTERED | c:\users\hasin\downloads\new folder\ieee task\sample.txt
+2026-10-30 19:43:20 | INFO | BACKUP CREATED | c:\users\hasin\downloads\new folder\ieee task\sample.txt | C:\Users\hasin\Downloads\New Folder\IEEE task\backups\sample.txt.45a8afc1.20261030_194320_453005
+2026-10-30 19:43:20 | CRITICAL | CONFLICT | C:\Users\hasin\Downloads\New Folder\IEEE task\sample.txt
+2026-10-30 19:43:29 | INFO | INTEGRITY VERIFIED | c:\users\hasin\downloads\new folder\ieee task\sample.txt
